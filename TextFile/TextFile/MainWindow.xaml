@@ -1,0 +1,26 @@
+﻿<Window x:Class="TextFile.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextFile"
+        mc:Ignorable="d"
+         Title="Text File Processor" Height="350" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <CheckBox Grid.Row="0" x:Name="RemovePunctuationCheckBox" Content="Удалить знаки пунктуации" Margin="5"/>
+        <TextBlock Grid.Row="1" Margin="5" VerticalAlignment="Center">Минимальная длина слова:</TextBlock>
+        <TextBox Grid.Row="1"   HorizontalAlignment="Center" x:Name="MinLengthTextBox" Width="50" Height="17"  />
+        <Button Grid.Row="3"   x:Name="ProcessFilesButton" Content="Обработать файл(ы)" Click="ProcessFilesButton_Click" Margin="5,200,0,5"/>
+        <Button Grid.Row="4" x:Name="SaveFilesButton" Content="Сохранить файл(ы)" Click="SaveFilesButton_Click" Margin="5"/>
+        
+    </Grid>
+</Window>

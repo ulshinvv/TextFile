@@ -1,0 +1,15 @@
+C:\Users\ulsin\source\repos\TextFile\TextFile\bin\Debug\TextFile.exe.config
+C:\Users\ulsin\source\repos\TextFile\TextFile\bin\Debug\TextFile.exe
+C:\Users\ulsin\source\repos\TextFile\TextFile\bin\Debug\TextFile.pdb
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.csproj.AssemblyReference.cache
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\MainWindow.g.cs
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\App.g.cs
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile_MarkupCompile.cache
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile_MarkupCompile.lref
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\MainWindow.baml
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.g.resources
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.Properties.Resources.resources
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.csproj.GenerateResource.cache
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.csproj.CoreCompileInputs.cache
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.exe
+C:\Users\ulsin\source\repos\TextFile\TextFile\obj\Debug\TextFile.pdb
